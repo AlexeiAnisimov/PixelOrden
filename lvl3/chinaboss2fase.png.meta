@@ -1,0 +1,953 @@
+fileFormatVersion: 2
+guid: e7712e0ad52789b489b1b9dbb1622d1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3831527483236684801
+    second: chinaboss2fase_0
+  - first:
+      213: 6322784314017663742
+    second: chinaboss2fase_1
+  - first:
+      213: 782082879952449708
+    second: chinaboss2fase_2
+  - first:
+      213: -5273260326259883972
+    second: chinaboss2fase_3
+  - first:
+      213: 2000198800852883416
+    second: chinaboss2fase_4
+  - first:
+      213: -209523128728543242
+    second: chinaboss2fase_5
+  - first:
+      213: -7414622807787815919
+    second: chinaboss2fase_6
+  - first:
+      213: 4934405280916658910
+    second: chinaboss2fase_7
+  - first:
+      213: 2496456692502134784
+    second: chinaboss2fase_8
+  - first:
+      213: 5394212068012582766
+    second: chinaboss2fase_9
+  - first:
+      213: 1881568641667869260
+    second: chinaboss2fase_10
+  - first:
+      213: 6442704319919188771
+    second: chinaboss2fase_11
+  - first:
+      213: 1373864530672147416
+    second: chinaboss2fase_12
+  - first:
+      213: 8954943437903486082
+    second: chinaboss2fase_13
+  - first:
+      213: 5699156645201317241
+    second: chinaboss2fase_14
+  - first:
+      213: -9207226259676131603
+    second: chinaboss2fase_15
+  - first:
+      213: 2795160122013769885
+    second: chinaboss2fase_16
+  - first:
+      213: 4712444054278266519
+    second: chinaboss2fase_17
+  - first:
+      213: -1382093360518241677
+    second: chinaboss2fase_18
+  - first:
+      213: 31823193982670285
+    second: chinaboss2fase_19
+  - first:
+      213: 7758923162982777883
+    second: chinaboss2fase_20
+  - first:
+      213: 4254927896108768714
+    second: chinaboss2fase_21
+  - first:
+      213: 9210126513239266292
+    second: chinaboss2fase_22
+  - first:
+      213: -2810533832339485651
+    second: chinaboss2fase_23
+  - first:
+      213: -211539562360237898
+    second: chinaboss2fase_24
+  - first:
+      213: -4132669816018389665
+    second: chinaboss2fase_25
+  - first:
+      213: 3222924923015008039
+    second: chinaboss2fase_26
+  - first:
+      213: 1612230553966442973
+    second: chinaboss2fase_27
+  - first:
+      213: -7667671230877490971
+    second: chinaboss2fase_28
+  - first:
+      213: 1206342231828578204
+    second: chinaboss2fase_29
+  - first:
+      213: -7195820706043662122
+    second: chinaboss2fase_30
+  - first:
+      213: -3143188246624309445
+    second: chinaboss2fase_31
+  - first:
+      213: -7043717662523844169
+    second: chinaboss2fase_32
+  - first:
+      213: 7506309636593177821
+    second: chinaboss2fase_33
+  - first:
+      213: -3391484169531412324
+    second: chinaboss2fase_34
+  - first:
+      213: -2852983327994377186
+    second: chinaboss2fase_35
+  - first:
+      213: -6949337875212321778
+    second: chinaboss2fase_36
+  - first:
+      213: 3727132079630979076
+    second: chinaboss2fase_37
+  - first:
+      213: 276534329972419557
+    second: chinaboss2fase_38
+  - first:
+      213: -8138849159781931105
+    second: chinaboss2fase_39
+  - first:
+      213: -7020754147165239877
+    second: chinaboss2fase_40
+  - first:
+      213: -3351380210057497573
+    second: chinaboss2fase_41
+  - first:
+      213: 1969576584168823123
+    second: chinaboss2fase_42
+  - first:
+      213: -6279258958596064268
+    second: chinaboss2fase_43
+  - first:
+      213: -1577219278607665446
+    second: chinaboss2fase_44
+  - first:
+      213: 9055472848660733645
+    second: chinaboss2fase_45
+  - first:
+      213: 4215676534901466593
+    second: chinaboss2fase_46
+  - first:
+      213: -5776491718680583331
+    second: chinaboss2fase_47
+  - first:
+      213: -8647155006996649261
+    second: chinaboss2fase_48
+  - first:
+      213: -1506953214746995671
+    second: chinaboss2fase_49
+  - first:
+      213: -8915348679245791587
+    second: chinaboss2fase_50
+  - first:
+      213: -1228947565396049768
+    second: chinaboss2fase_51
+  - first:
+      213: -5244800307850171301
+    second: chinaboss2fase_52
+  - first:
+      213: 7393783088678952390
+    second: chinaboss2fase_53
+  - first:
+      213: -3089657313573952502
+    second: chinaboss2fase_54
+  - first:
+      213: 146498976195531140
+    second: chinaboss2fase_55
+  - first:
+      213: 930055238096522803
+    second: chinaboss2fase_56
+  - first:
+      213: -5483979140089451741
+    second: chinaboss2fase_57
+  - first:
+      213: 1985325867787296995
+    second: chinaboss2fase_58
+  - first:
+      213: 6861491720616520348
+    second: chinaboss2fase_59
+  - first:
+      213: -4643809057814232573
+    second: chinaboss2fase_60
+  - first:
+      213: 8501388677606267882
+    second: chinaboss2fase_61
+  - first:
+      213: 6911343568941821125
+    second: chinaboss2fase_62
+  - first:
+      213: 6653197557367399305
+    second: chinaboss2fase_63
+  - first:
+      213: 2128676675415869734
+    second: chinaboss2fase_64
+  - first:
+      213: -7340146351874023807
+    second: chinaboss2fase_65
+  - first:
+      213: 829585398872672558
+    second: chinaboss2fase_66
+  - first:
+      213: 7141530566358679483
+    second: chinaboss2fase_67
+  - first:
+      213: -3480634075203616404
+    second: chinaboss2fase_68
+  - first:
+      213: -8091797431329017051
+    second: chinaboss2fase_69
+  - first:
+      213: 1431702150406526888
+    second: chinaboss2fase_70
+  - first:
+      213: -5983120491265014277
+    second: chinaboss2fase_71
+  - first:
+      213: 3485875651999898490
+    second: chinaboss2fase_72
+  - first:
+      213: 2102537554154849463
+    second: chinaboss2fase_73
+  - first:
+      213: -4706128258353556066
+    second: chinaboss2fase_74
+  - first:
+      213: 4030166010335786453
+    second: chinaboss2fase_75
+  - first:
+      213: -3845854583236096623
+    second: chinaboss2fase_76
+  - first:
+      213: -1271547984335429781
+    second: chinaboss2fase_77
+  - first:
+      213: 6487403433223085520
+    second: chinaboss2fase_78
+  - first:
+      213: -4639654862505692809
+    second: chinaboss2fase_79
+  - first:
+      213: -820451629560114438
+    second: chinaboss2fase_80
+  - first:
+      213: -4197406700549055062
+    second: chinaboss2fase_81
+  - first:
+      213: 3273104712304565153
+    second: chinaboss2fase_82
+  - first:
+      213: 7448944110915893641
+    second: chinaboss2fase_83
+  - first:
+      213: 6265704516871614316
+    second: chinaboss2fase_84
+  - first:
+      213: 2061158011604432914
+    second: chinaboss2fase_85
+  - first:
+      213: -1227818830232139006
+    second: chinaboss2fase_86
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chinaboss2fase_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104187912f15c2530800000000000000
+      internalID: 3831527483236684801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa4f6485da0fb750800000000000000
+      internalID: 6322784314017663742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0fa745c348ada00800000000000000
+      internalID: 782082879952449708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c308e151cad91d6b0800000000000000
+      internalID: -5273260326259883972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d79ffc363222cb10800000000000000
+      internalID: 2000198800852883416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff18e313df971df0800000000000000
+      internalID: -209523128728543242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c3c4637d7f91990800000000000000
+      internalID: -7414622807787815919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda59da95778a7440800000000000000
+      internalID: 4934405280916658910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0008cb1922235a220800000000000000
+      internalID: 2496456692502134784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67e30dcb471cda40800000000000000
+      internalID: 5394212068012582766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aa02be5bcac1a10800000000000000
+      internalID: 1881568641667869260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b68ada175196950800000000000000
+      internalID: 6442704319919188771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbd838f282f01310800000000000000
+      internalID: 1373864530672147416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cd3f78c99564c70800000000000000
+      internalID: 8954943437903486082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d088cf5c8771f40800000000000000
+      internalID: 5699156645201317241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee0b51bf7c593080800000000000000
+      internalID: -9207226259676131603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.43, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90e7f252576ac620800000000000000
+      internalID: 2795160122013769885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.52, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e582756e6f56140800000000000000
+      internalID: 4712444054278266519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_18
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.58, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37262e74961d1dce0800000000000000
+      internalID: -1382093360518241677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.58, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc594fcb60f017000800000000000000
+      internalID: 31823193982670285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b148329128b3dab60800000000000000
+      internalID: 7758923162982777883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd9670c06a8c0b30800000000000000
+      internalID: 4254927896108768714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f398063441f0df70800000000000000
+      internalID: 9210126513239266292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.475, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c003ece5afef8d0800000000000000
+      internalID: -2810533832339485651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.46, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0939983e5701df0800000000000000
+      internalID: -211539562360237898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.46, y: 0.49999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55be3ab2bec5a6c0800000000000000
+      internalID: -4132669816018389665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f001644212abc20800000000000000
+      internalID: 3222924923015008039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chinaboss2fase_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.47, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd97339952bcf5610800000000000000
+      internalID: 1612230553966442973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
